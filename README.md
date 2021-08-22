@@ -8,7 +8,7 @@ Naive_Bayes_Classifier_From_Scratch
 
 
 
-2. This project supports 4 different ways of feature creation: 
+2. This project supports 4 different ways of word representation: 
 
     - Stemming reviews + word's frequency based on BOW
 
